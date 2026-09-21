@@ -1,0 +1,8 @@
+{
+  "name": "Sfida e Dijes",
+  "description": "Aplikacion kuiz i dijes islame në gjuhën shqipe me nivele, medalje, sfida ditore dhe sfida online në kohë reale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
